@@ -1,0 +1,5 @@
+{
+	"algol":{"Lee":"A","Kim":"A+","Park":"B"},
+	"basic":{"Lee":"C","Kim":"B","Park":"B+"},
+	"c++":{"Lee":"B+","Kim":"C","Park":"C+"}
+}

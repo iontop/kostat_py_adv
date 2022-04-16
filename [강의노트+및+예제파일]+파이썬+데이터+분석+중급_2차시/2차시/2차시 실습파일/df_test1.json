@@ -1,0 +1,4 @@
+{
+	"length":{"setosa":5.1,"versicolor":7,"virginica":6.3},
+	"width":{"setosa":3.5,"versicolor":3.2,"virginica":3.3}
+}
